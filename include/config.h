@@ -6,7 +6,7 @@
 #include <vector>
 #include <string>
 #include <fstream>
-#include <stdlib.h>
+#include <cstdlib>
 #include <assert.h>
 #include "path.h"
 using namespace std;

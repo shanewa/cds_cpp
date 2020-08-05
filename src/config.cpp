@@ -6,6 +6,7 @@ void config::load(vector<path> &)
 
 }
 
+// const char* ?
 void config::get_env(string variable, string &value)
 {
     char *p = getenv(variable.c_str());
