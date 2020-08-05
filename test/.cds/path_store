@@ -1,5 +1,5 @@
-bin^/root/bin
-bi^$ROOT/obj/linux_x86/SHIPDIR/ATCA
-p^/mnt/c/Users/shanewa/Documents/WindowsPowerShell
-download^/mnt/c/CV0038147N1-Data/shanewa/Downloads
-pf^/mnt/c/'Program Files (x86)'
+bin:/root/bin
+bi:$ROOT/obj/linux_x86/SHIPDIR/ATCA
+p:/mnt/c/Users/shanewa/Documents/WindowsPowerShell
+download:/mnt/c/CV0038147N1-Data/shanewa/Downloads
+pf:/mnt/c/'Program Files (x86)'
